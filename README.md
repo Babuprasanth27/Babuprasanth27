@@ -8,7 +8,7 @@ Certainly! Here's a short description for your web developer profile: "As a skil
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [babuprasanth2727@gmail.com](mailto:babuprasanth2727@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm currently learning New Tech Stacks
 
 <a href="https://www.github.com/Babuprasanth27" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Babuprasanth27?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
