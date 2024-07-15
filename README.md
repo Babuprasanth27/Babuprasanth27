@@ -13,6 +13,7 @@ Certainly! Here's a short description for your web developer profile: "As a skil
 <a href="https://www.github.com/Babuprasanth27" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Babuprasanth27?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=babuprasanth27&label=Profile%20views&color=0e75b6&style=flat" alt="babuprasanth27" /> </p>
 ### Skills
 
 
